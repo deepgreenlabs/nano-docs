@@ -12,7 +12,7 @@ Telegram: @amiri_uk
 window.addEventListener("DOMContentLoaded", function() {
     if (window.loadCustomWidget) {
         window.loadCustomWidget({
-            orgId: "0c0a4892-3f0c-4a"
+            orgId: "288c2f3a-9d4f-4d"
         });
     }
 });
